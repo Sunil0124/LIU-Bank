@@ -83,7 +83,7 @@ DB_PASSWORD=your_db_password
 DB_NAME=liubankdb
 JWT_SECRET=your_jwt_secret
 
-**### Run Server**
+### Run Server
 node Server.js
 
 **### 🔜 Frontend Setup**
